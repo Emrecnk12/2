@@ -33,4 +33,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için,lütfen önce neyi d
 
 ***
 
-![Image]([ilkRepoImage.PNG](https://r.resimlink.com/L3UzRlHYDug.png))
+![Image](https://r.resimlink.com/L3UzRlHYDug.png)
